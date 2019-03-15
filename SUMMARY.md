@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Welcome to the Commons Stack](README.md)
+* [Commons Research](README.md)
 * [Library](library.md)
 
