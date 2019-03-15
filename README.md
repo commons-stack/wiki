@@ -35,6 +35,13 @@ There are five broad types of co-operative business, distinguished by the differ
 
 Source: [Platform Co-Ops](https://media.nesta.org.uk/documents/Nesta_Platform_Report_FINAL-WEB_b1qZGj7.pdf) \(p 17-20\)
 
+## Challenges and ways forward
+
+1. **Governance:** Platform co-operatives usually lack a geographically-rooted community, and can have divergent stakeholder interests, which create organisational problems.
+2. **Technology:** Platform co-operatives may not want to adopt some of the technologies that have become synonymous with Big Tech and surveillance capitalism such as data analytics and artificial intelligence. Their lack of capital also hampers their ability to build platforms and supporting infrastructure to the same standard as commercial platforms - making it difficult to meet consumer expectations in terms of user experience.
+3. **Growth:** Platform co-operatives are unlikely to be able to follow the established growth strategies of incumbents and so will find it difficult to build the natural network effects that fuel market penetration and consolidation.
+4. **Capital:** The lack of a pure profit-driven business model means platform co-operatives struggle to access capital to grow, as financing in the start-up sector is predicated largely on venture capital, which generally requires investor control and the potential for large future returns.
+
 ## Orgs in space
 
 * [Nesta](https://nesta.org.uk) – backs new ideas to tackle the big challenges of our time, from the pressures of an ageing population to stretched public services and a fast changing jobs market.
