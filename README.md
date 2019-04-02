@@ -58,5 +58,3 @@ Effective fund governance and value capture:
 * $x allocated to the community curated researches
 * Research selection via voting is not worse then in centralized model, economy on management achieved
 
-
-
