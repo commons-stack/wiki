@@ -1,10 +1,10 @@
 # Welcome to Commons Stack
 
-We build ****commons tech, changing tragedy into festival by realigning incentives.
+We build ****commons tech, changing tragedy into festival by realigning incentives. Below goes the reference implementation based on TE commons \(example\).
 
 ## Problem definition
 
-Funding of a public good \(TE research as an example\). Open Source TE Research Creates Uncaptured Value. ****This is a common issue in the open source world, known as the [Free-rider Problem](https://en.wikipedia.org/wiki/Free-rider_problem).
+Funding of a public good \(TE research as an example\). Open Source TE research creates uncaptured value. ****This is a common issue in the open source world, known as the [Free-rider Problem](https://en.wikipedia.org/wiki/Free-rider_problem).
 
 * Because of this, the rigorous design and validation of proposed cryptoeconomic models is happening in different silos and common procedures are not yet clear nor easily shared. There is no incentive to share the tools.
 * The R&D going into building these tools is a long, complex and expensive process, and creating the documentation and educational resources required to spread their use is an additional expense with little reward.
@@ -12,12 +12,12 @@ Funding of a public good \(TE research as an example\). Open Source TE Research 
 * There are many projects working to ameliorate the issues surrounding open source development, and we think this framework can aid cross project collaboration. Among a few are SourceCred, other examples?
 
 {% hint style="info" %}
-/Problems of centralized governance here/
+Problems of centralized governance here
 {% endhint %}
 
 ## Solution
 
-Implementing the system
+Implementing the "Commons Stack" system that consist of:
 
 * [Token Bonding Curve for Commons Fund](token-bonding-curve-for-commons-fund.md) \(Model & Implementation\)
 * [Conviction Voting Module](conviction-voting-module.md) for funding decision making
@@ -31,15 +31,29 @@ Implementing the system
 
 ## Approach
 
-* Crowdfunding phase
-* Community buidling phase
-* Launch
-* Economics tweaking phase
-* Self governance phase
+### Crowdfunding phase
 
-## Expected results
+In this phase we collect the initial funds that will help developing further phases. Also to create the core of community who'll stake funds and will be ambassadors for the future community expansion.
 
-Effective Fund Governance and value capture:
+### Launch
+
+This is the moment fund and apps go live
+
+### Community building phase
+
+In this phase we announce, educate and onboard people, effectively creating the commons.
+
+### Economics tweaking phase
+
+On this phase architect analyze and update the model to fit the specific conditions in commons.
+
+### Self governance phase
+
+When fund works and is stable it's left for the community to be governed, providing ongoing funding to the projects.
+
+## Expected Results
+
+Effective fund governance and value capture:
 
 * $x allocated to the community curated researches
 * Research selection via voting is not worse then in centralized model, economy on management achieved
