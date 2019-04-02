@@ -1,7 +1,5 @@
 # Commons Research
 
-
-
 ## The co-operative advantage \[[1](https://media.nesta.org.uk/documents/Nesta_Platform_Report_FINAL-WEB_b1qZGj7.pdf)\]
 
 This fundamental difference enables co-operative businesses to generate long term, tangible economic and social advantages:
