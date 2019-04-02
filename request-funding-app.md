@@ -1,6 +1,6 @@
 # Request funding app
 
-{% embed url="https://www.figma.com/proto/dT9yEXPkPNT1WiwLG5gVayRm/The-Commons-Stack?node-id=9%3A2&scaling=scale-down" %}
+UX prototype: [https://www.figma.com/proto/dT9yEXPkPNT1WiwLG5gVayRm/The-Commons-Stack?node-id=9%3A2&scaling=scale-down](https://www.figma.com/proto/dT9yEXPkPNT1WiwLG5gVayRm/The-Commons-Stack?node-id=9%3A2&scaling=scale-down)
 
 ## User Stories / Fund Requester \(Farmer\)
 
@@ -19,10 +19,7 @@
   * Pic
   * Title, description \(e.g. Plant 10 Oaks by 01.06.19\)
   * Amount requested \(Fixed amount, e.g. 100 xDAI\)
-  * Reviewer
-
-\*For the hackathon we launch a separate Giveth entity, and we have a DAC that shows all milestones that can go to Momentum voting module. So people there can stake tokens to put it to the list.  
-
+  * Reviewer 
 
 If somebody else donates to the milestone, the amount is reduced.
 
