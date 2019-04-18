@@ -2,7 +2,7 @@
 
 [https://commons-stack.gitbook.io/wiki/](https://commons-stack.gitbook.io/wiki/)
 
-We build ****commons tech, changing tragedy into festival by realigning incentives. Below goes the reference implementation based on TE commons \(example\).
+We build **commons tech**, changing tragedy into festival by realigning incentives. Below goes the reference implementation based on TE commons \(example\).
 
 ## Problem definition
 
