@@ -1,4 +1,4 @@
-# Welcome to Commons Stack Wiki
+# Welcome to Commons Stack
 
 [https://commons-stack.gitbook.io/wiki/](https://commons-stack.gitbook.io/wiki/)
 
@@ -6,7 +6,7 @@ We build **commons tech**, changing tragedy into festival by realigning incentiv
 
 ## Problem definition
 
-Funding of a public good \(TE research as an example\). Open Source TE research creates uncaptured value. ****This is a common issue in the open source world, known as the [Free-rider Problem](https://en.wikipedia.org/wiki/Free-rider_problem).
+Funding of a public good \(TE research as an example\). Open Source TE research creates uncaptured value. _\*\*_This is a common issue in the open source world, known as the [Free-rider Problem](https://en.wikipedia.org/wiki/Free-rider_problem).
 
 * Because of this, the rigorous design and validation of proposed cryptoeconomic models is happening in different silos and common procedures are not yet clear nor easily shared. There is no incentive to share the tools.
 * The R&D going into building these tools is a long, complex and expensive process, and creating the documentation and educational resources required to spread their use is an additional expense with little reward.
