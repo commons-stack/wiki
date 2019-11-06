@@ -12,9 +12,9 @@ description: Powered by Giveth
 **Any approved Commons Stack Member that donates to Iteration 0 will receive 3 CSTK tokens for every Dai they donate thereby becoming part of the** [**Trusted Seed**](https://medium.com/giveth/the-trusted-seed-of-the-commons-stack-5af6fb04cd30)**. Fill out our** [**membership application**](https://commonsstack.org/apply)**, if you haven’t already.**   
 
 
-**We are dedicated to transparency so we will use the** [**Giveth DApp**](https://beta.giveth.io/) **to track our use of the donations for Iteration 0. So you can donate directly to** [**this campaign**](https://beta.giveth.io/campaigns/5d110631994eac53adc8f21e) **and see exactly where your DAI goes.  
+**We are dedicated to transparency so we will use the** [**Giveth DApp**](https://beta.giveth.io/) **to track our use of the donations for Iteration 0. So you can donate directly to** [**this campaign**](https://beta.giveth.io/campaigns/5d110631994eac53adc8f21e) **and see exactly where your DAI goes.**  
   
-This is a relatively simple process, first we invite you to send Dai to the Giveth Campaign, then we also ask that you make a profile on Giveth.**
+**This is a relatively simple process, first we invite you to send Dai to the Giveth Campaign, then we also ask that you make a profile on Giveth.**
 
 ## **To donate to the Commons Stack Iteration 0 Campaign:**
 
