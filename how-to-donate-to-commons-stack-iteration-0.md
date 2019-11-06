@@ -6,7 +6,7 @@ description: Powered by Giveth
 
 
 
-**The Commons Stack is hoping to raise 140,000-200,000 DAI to cover the costs of setting up the Commons Stack Association and launching the fundraise for Iteration 1. Any extra funds not used by the Commons Stack will be Donated to BlockScience to improve cadCAD.**  
+**The Commons Stack is hoping to raise 140,000-200,000 DAI to cover the costs of setting up the Commons Stack Association and launching the fundraise for Iteration 1 (As of November 5th, we have raised 112,930 Dai). Any extra funds not used by the Commons Stack will be Donated to BlockScience to improve cadCAD.**  
 
 
 **Any approved Commons Stack Member that donates to Iteration 0 will receive 3 CSTK tokens for every Dai they donate thereby becoming part of the** [**Trusted Seed**](https://medium.com/giveth/the-trusted-seed-of-the-commons-stack-5af6fb04cd30)**. Fill out our** [**membership application**](https://commonsstack.org/apply)**, if you haven’t already.**   
