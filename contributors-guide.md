@@ -5,11 +5,11 @@
 
 ## What is Commons Stack Praise?
 
-**The voices and contributions from the Commons Stack community fuel our project- and as such we seek to reflect that contribution to our system. One way of doing this is awarding Praise which, at the end of each month, can turn into CSTK tokens: these tokens indicate reputation in the Commons Stack and inclusion in our [**Trusted Seed**](https://medium.com/giveth/the-trusted-seed-of-the-commons-stack-5af6fb04cd30)**. 
+**The voices and contributions from the Commons Stack community fuel our project- and as such we seek to reflect that contribution to our system. One way of doing this is awarding Praise which, at the end of each month, can turn into CSTK tokens: these tokens indicate reputation in the Commons Stack and inclusion in our [**Trusted Seed**](https://medium.com/giveth/the-trusted-seed-of-the-commons-stack-5af6fb04cd30). 
 
 \*\*\*\*
 ### The Praise Lifecycle 
-* Praise is dished in the main** [**Commons Stack telegram channel**](https://t.me/CommonsStack).
+* Praise is dished in the main [**Commons Stack telegram channel**](https://t.me/CommonsStack).
 * If you are dished Praise, the bot will mention you in the main channel - click on its invitation to direct message, and the bot will start a chat with you.
 * The bot will first invite you to apply for membership, which you can do at any time [right here](http://commonsstack.org/apply). If you have already applied, you can ignore this, but without this crucial step, Praise cannot be converted into CSTK tokens.
 * Praise dishing is done on a monthly cycle. Before the 15th of every month the Commons Stack Association will analyze the Praise awarded from the month before and give CSTK tokens to denote the reputation earned in the Trusted Seed. 
