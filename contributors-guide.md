@@ -15,7 +15,7 @@
 * Praise dishing is done on a monthly cycle. Before the 15th of every month the Commons Stack Association will analyze the Praise awarded from the month before and give CSTK tokens to denote the reputation earned in the Trusted Seed. 
 * CSTK tokens are non-transferrable and will never have a monetary value. Rather, they are a badge of honor signifying you are trusted - which will later be used to give access to the [launch of future Commons](https://medium.com/giveth/the-commons-stack-scaling-the-commons-to-re-prioritize-people-and-the-planet-fdc076aec4eb).
 * We hope one day to integrate [SourceCred](https://sourcecred.io/), as it is a very promising protocol that can serve the same purpose as our PraiseBot, but to keep overhead low, we decided to keep it simply to Praise for now.
-* You can find the live sheet of the awarded Praise throughout a month and the historical record of all awarded Praise and related CSTK tokens [in this folder](https://drive.google.com/open?id=1UpoB17H-L2_jjzd4rgRaSbLgcaFwKqqE). You can also see this record by typing "!sheet" in any telegram room the Praisebot (@PraiseBot) is in.
+* You can find the live sheet of the awarded Praise throughout a month and the historical record of all awarded Praise and related CSTK tokens [in this sheet](https://docs.google.com/spreadsheets/d/1Qxgjg4YxTBNIIwIEm3WGDcmGs_8Klv-UzztQCzYLvNA/edit?usp=sharing). You can also see this record by typing "!sheet" in any telegram room the Praisebot (@PraiseBot) is in.
 
 
 {% hint style="info" %}
