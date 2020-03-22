@@ -4,7 +4,7 @@ description: Powered by Giveth
 
 # How To Donate to Commons Stack - Iteration 0
 
-**The Commons Stack is hoping to raise 140,000-200,000 SAI/DAI (OLD Single Collateral Dai or the newer much cooler Multi Collateral Dai) to cover the costs of setting up the Commons Stack Association and launching the fundraise for Iteration 1 \(as of March 19th, we have raised 133,054 Dai\).**
+**The Commons Stack is hoping to raise 140,000-200,000 SAI/DAI \(OLD Single Collateral Dai or the newer much cooler Multi Collateral Dai\) to cover the costs of setting up the Commons Stack Association and launching the fundraise for Iteration 1 \(as of March 19th, we have raised 133,054 Dai\).**
 
 **Any approved Commons Stack Member that donates to Iteration 0 will receive 3 CSTK tokens for every Sai/Dai they donate thereby becoming part of the** [**Trusted Seed**](https://medium.com/giveth/the-trusted-seed-of-the-commons-stack-5af6fb04cd30)**. Fill out our** [**membership application**](https://commonsstack.org/apply)**, if you haven’t already.**
 
@@ -21,9 +21,7 @@ description: Powered by Giveth
 
    ![](https://lh4.googleusercontent.com/JVcKJU3_wNP9DjIHb_5MsnDY7qHMZuwzPO36ZA1lJaJ29o-x7pcTL1IVP-xiaQz3SlCR6NcfVAtc1BHglJUnc5nYrxJf8pjhXpNQx5_H0ngu6baTEXh80ZzRiKyqDl8tfGgshoHI)
 
-5. **Another pop up will come up, click “Let’s Do It” and then you will have to confirm 2 txs, one tx to unlock \(approve\) the Dai/Sai and one tx to execute the withdraw \(it will say it is a 0 ETH tx\)….** 
-   1. **If you are using a normal browser with metamask, sometimes the pop up doesn’t pop… click that cute little fox with a 1 next to its face to get it to show**
-   2. **PLEASE BE PATIENT… the ethereum network can be slow… leave the browser window up and on this tab, walk away from your computer if you have to.**
+5. **Another pop up will come up, click “Let’s Do It” and then you will have to confirm 2 txs, one tx to unlock \(approve\) the Dai/Sai and one tx to execute the withdraw \(it will say it is a 0 ETH tx\)….** 1. **If you are using a normal browser with metamask, sometimes the pop up doesn’t pop… click that cute little fox with a 1 next to its face to get it to show** 2. **PLEASE BE PATIENT… the ethereum network can be slow… leave the browser window up and on this tab, walk away from your computer if you have to.**
 
 ### **How to make a profile on Giveth**
 
@@ -33,7 +31,7 @@ description: Powered by Giveth
 
    ![](https://lh6.googleusercontent.com/a28H93GA0mopviAtJ5JP2AffHlkC6Rbin1MYDxzFUJ9iZMYWZB-I0sLZ0dDsUrXdUHflQbdSVZ9YeAMR__qUgo9hFUqByRK6h27rjLjwfrJCtiqb7fzW4H-Uy2-LEvw-RPuf87ye)
 
-2. **Go to** [**https://beta.giveth.io/profile**](https://beta.giveth.io/profile) 
+2. **Go to** [**https://beta.giveth.io/profile**](https://beta.giveth.io/profile)
 3. **You may get a pop up that says “Insufficient Balance”. Be patient, the Giveth DApp will send you the Rinkeby ETH you need. If you wait a few minutes & refresh the page, it will work.**
 4. **Put in your name, and optionally your email and a profile picture.** 
 5. **Click “Save profile” and confirm the tx.**

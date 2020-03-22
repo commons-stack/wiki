@@ -6,6 +6,7 @@
 * [Request funding app](request-funding-app.md)
 * [Contributors Guide](contributors-guide.md)
 * [How To Donate to Commons Stack - Iteration 0](how-to-donate-to-commons-stack-iteration-0.md)
+* [Transparent log of burn events](transparent-log-of-burn-events.md)
 
 ## Research
 
