@@ -10,13 +10,51 @@ On the off chance that the Commons Stack Association loses faith in a member of 
 
 ## BURN EVENTS
 
-| Date | Reason for Burn | Etherscan Link |
-| :--- | :--- | :--- |
-| 02 March 2020 | Accounting error, 706 tokens were sent twice | [https://etherscan.io/tx/0xd799e7750f067942e2227e0ac17df00eedf9cbbf9cae7fbc96157a5649122e83](https://etherscan.io/tx/0xd799e7750f067942e2227e0ac17df00eedf9cbbf9cae7fbc96157a5649122e83) |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-### \[^1\]: [http://www.makecommoningwork.fed.wiki/view/graduated-sanctions-according-to-ostrom ](http://www.makecommoningwork.fed.wiki/view/graduated-sanctions-according-to-ostrom%20) 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Date</th>
+      <th style="text-align:left">Reason for Burn</th>
+      <th style="text-align:left">Etherscan Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">02 March 2020</td>
+      <td style="text-align:left">Accounting error, 706 tokens were sent twice</td>
+      <td style="text-align:left"><a href="https://etherscan.io/tx/0xd799e7750f067942e2227e0ac17df00eedf9cbbf9cae7fbc96157a5649122e83">https://etherscan.io/tx/0xd799e7750f067942e2227e0ac17df00eedf9cbbf9cae7fbc96157a5649122e83</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">31 March 2020</td>
+      <td style="text-align:left">
+        <p>Member&apos;s address compromised,</p>
+        <p><a href="https://etherscan.io/tx/0x92d8ec2d3c1110c7b9f075489e6b9d0d67bd9d42c39f670207643e9a128359ff">reissued here</a>
+        </p>
+      </td>
+      <td style="text-align:left"><a href="https://etherscan.io/tx/0xff32aeb2ec312ce17e1b4b8029b30ef7fb8c428f519b7be26cc3660ef44eb3ec">https://etherscan.io/tx/0xff32aeb2ec312ce17e1b4b8029b30ef7fb8c428f519b7be26cc3660ef44eb3ec</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>### \[^1\]: [http://www.makecommoningwork.fed.wiki/view/graduated-sanctions-according-to-ostrom ](http://www.makecommoningwork.fed.wiki/view/graduated-sanctions-according-to-ostrom%20) 
 
