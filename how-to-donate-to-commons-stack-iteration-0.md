@@ -4,7 +4,7 @@ description: Powered by Giveth
 
 # How To Donate to Commons Stack - Iteration 0
 
-**The Commons Stack is hoping to raise 140,000-200,000 SAI/DAI \(OLD Single Collateral Dai or the newer much cooler Multi Collateral Dai\) to cover the costs of setting up the Commons Stack Association and launching the fundraise for Iteration 1 \(as of March 19th, we have raised 133,054 Dai\).**
+**The Commons Stack is hoping to raise 140,000-250,000 SAI/DAI \(OLD Single Collateral Dai or the newer much cooler Multi Collateral Dai\) to cover the costs of setting up the Commons Stack Association and launching the fundraise for Iteration 1 \(as of March 19th, we have raised 133,054 Dai\).**
 
 **Any approved Commons Stack Member that donates to Iteration 0 will receive 3 CSTK tokens for every Sai/Dai they donate thereby becoming part of the** [**Trusted Seed**](https://medium.com/giveth/the-trusted-seed-of-the-commons-stack-5af6fb04cd30)**. Fill out our** [**membership application**](https://commonsstack.org/apply)**, if you haven’t already.**
 
