@@ -36,14 +36,16 @@ On the off chance that the Commons Stack Association loses faith in a member of 
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">15 June 2020</td>
+      <td style="text-align:left">Contract wallet can&apos;t interact with CSTK tokens</td>
+      <td style="text-align:left"><a href="https://etherscan.io/tx/0x07cf4ac6bba6a3b119d20bb396de06e5c64ccc6f19ae6a403ab964e2778df105">https://etherscan.io/tx/0x07cf4ac6bba6a3b119d20bb396de06e5c64ccc6f19ae6a403ab964e2778df105</a>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">15 June 2020</td>
+      <td style="text-align:left">Accounting error, 302 tokens were sent twice</td>
+      <td style="text-align:left"><a href="https://etherscan.io/tx/0x62446feff99bbf28a5d75a4890166fdbe749876e81cfe9907082c0d87f1bfc5c">https://etherscan.io/tx/0x62446feff99bbf28a5d75a4890166fdbe749876e81cfe9907082c0d87f1bfc5c</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -56,5 +58,7 @@ On the off chance that the Commons Stack Association loses faith in a member of 
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>### \[^1\]: [http://www.makecommoningwork.fed.wiki/view/graduated-sanctions-according-to-ostrom ](http://www.makecommoningwork.fed.wiki/view/graduated-sanctions-according-to-ostrom%20) 
+</table>
+
+### \[^1\]: [http://www.makecommoningwork.fed.wiki/view/graduated-sanctions-according-to-ostrom ](http://www.makecommoningwork.fed.wiki/view/graduated-sanctions-according-to-ostrom%20) 
 
