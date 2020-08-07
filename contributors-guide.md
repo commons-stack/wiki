@@ -4,7 +4,7 @@
 
 ### What is Commons Stack Praise?
 
-**The voices and contributions from the Commons Stack community fuel our project- and as such we seek to reflect that contribution to our system. One way of doing this is awarding Praise which, at the end of each month, can turn into CSTK tokens: these tokens indicate reputation in the Commons Stack and inclusion in our** [**Trusted Seed**](https://medium.com/giveth/the-trusted-seed-of-the-commons-stack-5af6fb04cd30)**.**
+**The voices and contributions from the Commons Stack community fuel our project- and as such we seek to reflect that contribution to our system. One way of doing this is awarding Praise which, at the end of each month, can turn into [CSTK tokens](https://medium.com/commonsstack/cstk-the-token-of-the-commons-stack-trusted-seed-931978625c61): these tokens indicate reputation in the Commons Stack and inclusion in our** [**Trusted Seed**](https://medium.com/giveth/the-trusted-seed-of-the-commons-stack-5af6fb04cd30)**.**
 
 \*\*\*\*
 
