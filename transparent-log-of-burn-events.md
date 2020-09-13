@@ -48,6 +48,12 @@ On the off chance that the Commons Stack Association loses faith in a member of 
       </td>
     </tr>
     <tr>
+      <td style="text-align:left">13 September 2020</td>
+      <td style="text-align:left">Address Change Request, replacement tokens sent vote 17</td>
+      <td style="text-align:left"><a href="https://aragon.1hive.org/?#/csdao/0xaa89fb730a83146cbf06661fd436e7445b4d0232/vote/16/">https://aragon.1hive.org/?#/csdao/0xaa89fb730a83146cbf06661fd436e7445b4d0232/vote/16/</a>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
