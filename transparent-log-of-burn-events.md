@@ -54,6 +54,21 @@ On the off chance that the Commons Stack Association loses faith in a member of 
       </td>
     </tr>
     <tr>
+      <td style="text-align:left">24 September 2020</td>
+      <td style="text-align:left">Accounting error</td>
+      <td style="text-align:left">https://blockscout.com/poa/xdai/tx/0x542bb62f7e607ba046d14bf177260d465ca176fa914f2df907333ea68e630df2/token-transfers</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
