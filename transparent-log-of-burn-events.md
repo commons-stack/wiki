@@ -83,6 +83,12 @@ On the off chance that the Commons Stack Association loses faith in a member of 
        <td style="text-align:left"><a href="https://blockscout.com/poa/xdai/tx/0x271bc320d0def0ae10db296a69616171a6b48808c096faeef3ecd5680723d918/token-transfers">https://blockscout.com/poa/xdai/tx/0x271bc320d0def0ae10db296a69616171a6b48808c096faeef3ecd5680723d918/token-transfers</a>
       <td>
     </tr>
+     <tr>
+      <td style="text-align:left">12 October 2020</td>
+      <td style="text-align:left">20 Members requested to change their addresses</td>
+       <td style="text-align:left"><a href="See our DAO votes #31-50">https://aragon.1hive.org/?#/csdao/0xaa89fb730a83146cbf06661fd436e7445b4d0232</a>
+      <td>
+    </tr>
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
