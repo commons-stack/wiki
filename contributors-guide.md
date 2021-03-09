@@ -19,6 +19,6 @@
 * You can find the live sheet of the awarded Praise throughout a month and the historical record of all awarded Praise and related CSTK tokens [in this sheet](https://docs.google.com/spreadsheets/d/1Qxgjg4YxTBNIIwIEm3WGDcmGs_8Klv-UzztQCzYLvNA/edit?usp=sharing). You can also see this record by typing "!sheet" in any telegram room the Praisebot \(@PraiseBot\) is in.
 
 {% hint style="info" %}
-**If you have any questions about your contribution or this process, please contact Loie \(@loie\_giveth\) via a direct message on Telegram.**
+**If you have any questions about your contribution or this process, please contact Dan \([@knobsDAO](https://t.me/knobsDAO)\) via a direct message on Telegram.**
 {% endhint %}
 
