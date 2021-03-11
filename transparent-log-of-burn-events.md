@@ -84,7 +84,7 @@ On the off chance that the Commons Stack Association loses faith in a member of 
       <td>
     </tr>
      <tr>
-      <td style="text-align:left">12 October 2020</td>
+      <td style="text-align:left">12 December 2020</td>
       <td style="text-align:left">20 Members requested to change their addresses</td>
        <td style="text-align:left"><a href="https://aragon.1hive.org/?#/csdao/0xaa89fb730a83146cbf06661fd436e7445b4d0232">See our DAO votes #31-50</a>
       <td>
