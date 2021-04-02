@@ -4,9 +4,7 @@ description: Powered by Giveth
 
 # How To Donate to Commons Stack - Iteration 0
 
-Commons Stack is hoping to raise 140,000-250,000 DAI to cover the costs of setting up our Trusted Seed's Swiss Association and launching the fundraise for Iteration 1 \(as of March 19th 2020, we have raised 133,054 Dai\).
-
-**Any successful applicant to the Trusted Seed of Commons Stack that makes a donation of 100 DAI or above to Iteration 0 will receive a CSTK Score increase towards their** [**Trusted Seed Membership**](https://medium.com/giveth/the-trusted-seed-of-the-commons-stack-5af6fb04cd30)**. Fill out our** [**membership application**](https://commonsstack.org/apply)**, if you haven’t already and in 1-2 weeks you will get an email from us.** **And if you already had, you may [activate your membership now](https://medium.com/commonsstack/join-the-commons-stacks-trusted-seed-swiss-association-ed51a356cb6c)!**
+**Any successful applicant to the Trusted Seed of Commons Stack that makes a donation of 100 DAI or above to Iteration 0 will receive a CSTK Score increase towards their** [**Trusted Seed Membership**](https://medium.com/giveth/the-trusted-seed-of-the-commons-stack-5af6fb04cd30)**. Fill out our** [**membership application**](https://commonsstack.org/apply)** if you haven’t already - successful applicants will get an email from us in 1-2 weeks.** **And if you already had, you may [activate your membership now](https://medium.com/commonsstack/join-the-commons-stacks-trusted-seed-swiss-association-ed51a356cb6c)!**
 
 We are dedicated to transparency so we use the [**Giveth DApp**](https://beta.giveth.io/) to track our use of the [donations for Iteration 0](https://beta.giveth.io/campaign/commons-stack-community-iteration-0), so you can see exactly where your DAI goes. You can also see the payment of membership dues using our DApp [in this dedicated campaign](https://beta.giveth.io/campaign/commons-stack-association).
 
