@@ -1,6 +1,4 @@
-# Welcome to Commons Stack
-
-[https://wiki.commonsstack.org/](https://wiki.commonsstack.org/)
+# [Welcome to Commons Stack's Wiki](https://wiki.commonsstack.org/)
 
 We build **commons tech**, changing tragedy into festival by realigning incentives. Below goes the reference implementation based on TE commons \(example\).
 
