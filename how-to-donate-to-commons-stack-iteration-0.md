@@ -10,7 +10,7 @@ We are dedicated to transparency so we use the [**Giveth DApp**](https://beta.gi
 
 We recommend following the path of a successful [application to the Trusted Seed](https://commonsstack.org/apply) and [activating your Membership](https://medium.com/commonsstack/join-the-commons-stacks-trusted-seed-swiss-association-ed51a356cb6c). Alternatively, you can [donate to us over Gitcoin Grants](https://gitcoin.co/grants/539/the-commons-stack-iteration-0) or using Giveth directly.
 
-The process for Giveth is relatively simple, first we invite you to send DAI to the Giveth Campaign, then we also ask that you make a profile on the platform.
+The process for Giveth is relatively simple, first we invite you to send DAI to the Giveth Campaign, then to make a profile on the platform.
 
 ## **To donate to the Commons Stack Iteration 0 Campaign:**
 
