@@ -86,13 +86,68 @@ On the off chance that the Commons Stack Association loses faith in a member of 
      <tr>
       <td style="text-align:left">12 December 2020</td>
       <td style="text-align:left">20 Members requested to change their addresses</td>
-       <td style="text-align:left"><a href="https://aragon.1hive.org/?#/csdao/0xaa89fb730a83146cbf06661fd436e7445b4d0232">See our DAO votes #31-50</a>
+      <td style="text-align:left"><a href="https://aragon.1hive.org/?#/csdao/0xaa89fb730a83146cbf06661fd436e7445b4d0232">See our DAO votes #31-50</a>
       <td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">29 January 2021</td>
+      <td style="text-align:left">CSTK minted for DApp development testing</td>
+      <td style="text-align:left"><a href="https://aragon.1hive.org/?#/csdao/0xaa89fb730a83146cbf06661fd436e7445b4d0232/vote/">See our DAO votes #66 & 67</a>
+      <td>
+    </tr>
+    <tr>
+      <td style="text-align:left">11 February 2021</td>
+      <td style="text-align:left">Accounting error</td>
+      <td style="text-align:left"><a href="https://aragon.1hive.org/?#/csdao/0xaa89fb730a83146cbf06661fd436e7445b4d0232/vote/">See our DAO votes #69 & 70</a>
+      <td>
+    </tr>
+    <tr>
+      <td style="text-align:left">25 February 2021</td>
+      <td style="text-align:left">Accounting error</td>
+      <td style="text-align:left"><a href="https://aragon.1hive.org/?#/csdao/0xaa89fb730a83146cbf06661fd436e7445b4d0232/vote/82/">https://aragon.1hive.org/?#/csdao/0xaa89fb730a83146cbf06661fd436e7445b4d0232/vote/82/</a>
+      <td>
+    </tr>
+    <tr>
+      <td style="text-align:left">25 February 2021</td>
+      <td style="text-align:left">3 Members terminated their membership</td>
+      <td style="text-align:left"><a href="https://aragon.1hive.org/?#/csdao/0xaa89fb730a83146cbf06661fd436e7445b4d0232/vote/">See our DAO votes #78-80</a>
+      <td>
+    </tr>
+    <tr>
+      <td style="text-align:left">25 February 2021</td>
+      <td style="text-align:left">8 Members requested to change their addresses</td>
+      <td style="text-align:left"><a href="https://aragon.1hive.org/?#/csdao/0xaa89fb730a83146cbf06661fd436e7445b4d0232/vote/">See our DAO votes #77, 81 and 83-88</a>
+      <td>
+    </tr>
+    <tr>
+      <td style="text-align:left">11 March 2021</td>
+      <td style="text-align:left">Address change request</td>
+      <td style="text-align:left"><a href="https://aragon.1hive.org/?#/csdao/0xaa89fb730a83146cbf06661fd436e7445b4d0232/vote/93/">https://aragon.1hive.org/?#/csdao/0xaa89fb730a83146cbf06661fd436e7445b4d0232/vote/93/</a>
+      <td>
+    </tr>
+    <tr>
+      <td style="text-align:left">11 March 2021</td>
+      <td style="text-align:left">After a live test of the DApp with a new address, CSTK requiered being moved to the correct member's address</td>
+      <td style="text-align:left"><a href="https://aragon.1hive.org/?#/csdao/0xaa89fb730a83146cbf06661fd436e7445b4d0232/vote/94/">https://aragon.1hive.org/?#/csdao/0xaa89fb730a83146cbf06661fd436e7445b4d0232/vote/94/</a>
+      <td>
+    </tr>
+    <tr>
+      <td style="text-align:left">24 April 2021</td>
+      <td style="text-align:left">4 Members requested to change their addresses</td>
+      <td style="text-align:left"><a href="https://aragon.1hive.org/?#/csdao/0xaa89fb730a83146cbf06661fd436e7445b4d0232/vote/">See our DAO votes #103-106</a>
+      <td>
+    </tr>
+    <tr>
+      <td style="text-align:left">9 May 2021</td>
+      <td style="text-align:left">3 Members requested to change their addresses</td>
+      <td style="text-align:left"><a href="https://aragon.1hive.org/?#/csdao/0xaa89fb730a83146cbf06661fd436e7445b4d0232/vote/">See our DAO votes #113-115</a>
+      <td>
+    </tr>
+    <tr>
+      <td style="text-align:left">25 May 2021</td>
+      <td style="text-align:left">1 member terminated their membership</td>
+      <td style="text-align:left"><a href="https://blockscout.com/xdai/mainnet/tx/0xbaecb568a6c0baed21a20d204868c924a009fac2e984526643ca47407c3f5ed4">https://blockscout.com/xdai/mainnet/tx/0xbaecb568a6c0baed21a20d204868c924a009fac2e984526643ca47407c3f5ed4</a>
+      <td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
