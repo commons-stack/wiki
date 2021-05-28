@@ -150,6 +150,30 @@ On the off chance that the Commons Stack Association loses faith in a member of 
       <td>
     </tr>
     <tr>
+      <td style="text-align:left">27 May 2021</td>
+      <td style="text-align:left">CSTK minted for DApp development testing</td>
+      <td style="text-align:left"><a href="https://blockscout.com/xdai/mainnet/tx/0xb717eb70813dd66eaeb26ecfcb81070e5acfb3f8648839abd1d824ae8fb3b79e">https://blockscout.com/xdai/mainnet/tx/0xb717eb70813dd66eaeb26ecfcb81070e5acfb3f8648839abd1d824ae8fb3b79e</a>
+      <td>
+    </tr>
+    <tr>
+      <td style="text-align:left">27 May 2021</td>
+      <td style="text-align:left">Address change requests</td>
+      <td style="text-align:left"><a href="https://blockscout.com/xdai/mainnet/tx/0x8dc852f46d63854f56073272d5ca492702771b203e4763796fc850f10f259cfd">See link A</a><a href="https://blockscout.com/xdai/mainnet/tx/0xec243fe464010fe39b6f722bea58bb8e01fb68b0b78d2d220cfeb9d5151dffd9"> and B</a>
+      <td>
+    </tr>
+    <tr>
+      <td style="text-align:left">27 May 2021</td>
+      <td style="text-align:left">Accounting errors prompted by bridge failure</td>
+      <td style="text-align:left"><a href="https://blockscout.com/xdai/mainnet/tx/0x45b1637b06e0176422bc121ea17fb4b1a6bf5615713427afd39ac4418e29d207">See link A</a><a href="https://blockscout.com/xdai/mainnet/tx/0x14edb6cd192300885d94528deeda98f4f259102302ca1561c3cb7697f7b4c122"> and B</a>
+      <td>
+    </tr>
+    <tr>
+      <td style="text-align:left">27 May 2021</td>
+      <td style="text-align:left">THE BURN: An unique event where CSTK from non activated members was burned</td>
+      <td style="text-align:left"><a href="https://docs.google.com/spreadsheets/d/1lbITCDaBnqCUQIgXVR936_5nMC3uTzTEGpRPOhT_pTI/edit?usp=sharing">List of 155 burns</a>
+      <td>
+    </tr>
+    <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
