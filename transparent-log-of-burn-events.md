@@ -174,6 +174,12 @@ On the off chance that the Commons Stack Association loses faith in a member of 
       <td>
     </tr>
     <tr>
+      <td style="text-align:left">28 May 2021</td>
+      <td style="text-align:left">CSTK minted for DApp development testing</td>
+      <td style="text-align:left"><a href="https://blockscout.com/xdai/mainnet/tx/0xf59d27ab054f373fd6faa75ab40722e8c4caf16732ea3d10a37c799769f686d0">See link A</a><a href="https://blockscout.com/xdai/mainnet/tx/0x9000780051f374e6ea87f5b452f075cc3e46ca6db37fab9b4bd44b5d03eae1e6"> and B</a>
+      <td>
+    </tr>
+    <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
