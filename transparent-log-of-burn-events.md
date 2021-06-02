@@ -180,6 +180,12 @@ On the off chance that the Commons Stack Association loses faith in a member of 
       <td>
     </tr>
     <tr>
+      <td style="text-align:left">01 June 2021</td>
+      <td style="text-align:left">Griff's CSTK Ratio Adjustment Burn</td>
+      <td style="text-align:left"><a href="https://blockscout.com/xdai/mainnet/tx/0xd7699cf753beae1908e98520a3a4f2ca32ce532d7b5431baa792ac8056a8f3e7">See link A</a><a href="https://blockscout.com/xdai/mainnet/tx/0xd7699cf753beae1908e98520a3a4f2ca32ce532d7b5431baa792ac8056a8f3e7"> and B</a>
+      <td>
+    </tr>
+    <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
