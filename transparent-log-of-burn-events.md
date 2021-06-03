@@ -163,7 +163,7 @@ On the off chance that the Commons Stack Association loses faith in a member of 
     </tr>
     <tr>
       <td style="text-align:left">27 May 2021</td>
-      <td style="text-align:left">Accounting errors prompted by bridge failure</td>
+      <td style="text-align:left">Errors prompted by bridge failure</td>
       <td style="text-align:left"><a href="https://blockscout.com/xdai/mainnet/tx/0x45b1637b06e0176422bc121ea17fb4b1a6bf5615713427afd39ac4418e29d207">See link A</a><a href="https://blockscout.com/xdai/mainnet/tx/0x14edb6cd192300885d94528deeda98f4f259102302ca1561c3cb7697f7b4c122"> and B</a>
       <td>
     </tr>
