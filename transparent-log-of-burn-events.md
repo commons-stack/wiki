@@ -186,6 +186,18 @@ On the off chance that the Commons Stack Association loses faith in a member of 
       <td>
     </tr>
     <tr>
+      <td style="text-align:left">09 June 2021</td>
+      <td style="text-align:left">Accounting Error</td>
+      <td style="text-align:left"><a href="https://blockscout.com/xdai/mainnet/tx/0xb0487acb2995ee31f9ac2ef47884ef15f47d1bd23c67ed8f8b472f166982837a">https://blockscout.com/xdai/mainnet/tx/0xb0487acb2995ee31f9ac2ef47884ef15f47d1bd23c67ed8f8b472f166982837a</a>
+      <td>
+    </tr>
+    <tr>
+      <td style="text-align:left">10 June 2021</td>
+      <td style="text-align:left">Address change request</td>
+      <td style="text-align:left"><a href="https://blockscout.com/xdai/mainnet/tx/0x2737ed9e680bd6758b0f10d8d6bdc0503c736154438b76d152f53b4ea85c73b1">https://blockscout.com/xdai/mainnet/tx/0x2737ed9e680bd6758b0f10d8d6bdc0503c736154438b76d152f53b4ea85c73b1</a>
+      <td>
+    </tr>
+    <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
