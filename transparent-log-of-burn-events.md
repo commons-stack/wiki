@@ -198,6 +198,12 @@ On the off chance that the Commons Stack Association loses faith in a member of 
       <td>
     </tr>
     <tr>
+      <td style="text-align:left">16 June 2021</td>
+      <td style="text-align:left">Membership termination</td>
+      <td style="text-align:left"><a href="https://blockscout.com/xdai/mainnet/tx/0xbb9a969657f6a5407540167736c7a42b4a1774d6b028e30c856dd1e111fdabd9">See link A</a><a href="https://trace.giveth.io/trace/returning-dues-to-victor"> and B</a>
+      <td>
+    </tr>
+    <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
