@@ -207,6 +207,12 @@ On the off chance that the Commons Stack Association loses faith in a member of 
       <td style="text-align:left">13 July 2021</td>
       <td style="text-align:left">Membership terminations</td>
       <td style="text-align:left"><a href="https://blockscout.com/xdai/mainnet/tx/0x06224046d5bc855c3d920b7905dd0d5560904b3a93814ab5a451e121288aded0">See link A</a><a href="https://blockscout.com/xdai/mainnet/tx/0x02705629fa2e2d7fe4074a59eee1fc6bbf8f752056153cf6da5264537890689b">, B</a><a href="https://blockscout.com/xdai/mainnet/tx/0xc1dbbc9dff129ad575b2aedef6ad8b7fa6a6cb24e3512aaba59dd810d866544b">, C</a><a href="https://blockscout.com/xdai/mainnet/tx/0xd956924aacf08af450da30524a7048c2d6795c75bfaba74ea3226a6ec35e3b27">, D</a><a href="https://blockscout.com/xdai/mainnet/tx/0x70d3bde3b2f14721a857773351617fe5953819fe67f3b838b3032dc565ccb9b7">, E</a><a href="https://blockscout.com/xdai/mainnet/tx/0x87cee6eb73f5d3b386fc0998bd693dc68fbe7cbfbb0477c1963973896873c86b">, and F</a>
+    <td>
+    </tr>
+    <tr>
+      <td style="text-align:left">30 July 2021</td>
+      <td style="text-align:left">Double Mint</td>
+      <td style="text-align:left"><a href="https://blockscout.com/xdai/mainnet/tx/0xb554c581015d3712742294affeb1883a1a0e623f246ecbef75532aad1f65ad7e">https://blockscout.com/xdai/mainnet/tx/0xb554c581015d3712742294affeb1883a1a0e623f246ecbef75532aad1f65ad7e</a>   
       <td>
     </tr>
     <tr>
