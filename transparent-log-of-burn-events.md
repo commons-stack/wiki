@@ -212,7 +212,13 @@ On the off chance that the Commons Stack Association loses faith in a member of 
     <tr>
       <td style="text-align:left">30 July 2021</td>
       <td style="text-align:left">Double Mint</td>
-      <td style="text-align:left"><a href="https://blockscout.com/xdai/mainnet/tx/0xb554c581015d3712742294affeb1883a1a0e623f246ecbef75532aad1f65ad7e">https://blockscout.com/xdai/mainnet/tx/0xb554c581015d3712742294affeb1883a1a0e623f246ecbef75532aad1f65ad7e</a>   
+      <td style="text-align:left"><a href="https://blockscout.com/xdai/mainnet/tx/0xb554c581015d3712742294affeb1883a1a0e623f246ecbef75532aad1f65ad7e">https://blockscout.com/xdai/mainnet/tx/0xb554c581015d3712742294affeb1883a1a0e623f246ecbef75532aad1f65ad7e</a>
+    <td>
+    </tr>
+    <tr>
+      <td style="text-align:left">03 August 2021</td>
+      <td style="text-align:left">Address change requests</td>
+      <td style="text-align:left"><a href="https://blockscout.com/xdai/mainnet/tx/0xbd1489db5a2c9aebcdcc41935c051eb134d2fb6db6775c692f56ce966980db2b">See link A</a><a href="https://blockscout.com/xdai/mainnet/tx/0x71eca8e6c4d64999289168a8fd0237d7004b8f2d2fc19228beb78eabb8419391"> and B</a>
       <td>
     </tr>
     <tr>
