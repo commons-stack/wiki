@@ -224,8 +224,7 @@ On the off chance that the Commons Stack Association loses faith in a member of 
     <tr>
       <td style="text-align:left">10 August 2021</td>
       <td style="text-align:left">Address change requests</td>
-      <td style="text-align:left"><a href="https://blockscout.com/xdai/mainnet/tx/0x19de4294abdad8645fa3c5fc0e44725485f7436bee44a3c5be28713b6a3c51d7">See link A</a><a href="https://blockscout.com/xdai/mainnet/tx/0x19de4294abdad8645fa3c5fc0e44725485f7436bee44a3c5be28713b6a3c51d7"> and B</a>
-      <td>
+      <td style="text-align:left"><a href="https://blockscout.com/xdai/mainnet/tx/0x19de4294abdad8645fa3c5fc0e44725485f7436bee44a3c5be28713b6a3c51d7">https://blockscout.com/xdai/mainnet/tx/0x19de4294abdad8645fa3c5fc0e44725485f7436bee44a3c5be28713b6a3c51d7</a>
     </tr>
     <tr>
       <td style="text-align:left"></td>
