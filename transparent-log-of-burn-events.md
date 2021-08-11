@@ -231,6 +231,12 @@ On the off chance that the Commons Stack Association loses faith in a member of 
       <td style="text-align:left">11 August 2021</td>
       <td style="text-align:left">Double Mint</td>
       <td style="text-align:left"><a href="https://blockscout.com/xdai/mainnet/tx/0x15b2e8fe5e5e49350fa8784db65cbc002cd2bbc08f9ab33b94361ed665f189d8">https://blockscout.com/xdai/mainnet/tx/0x15b2e8fe5e5e49350fa8784db65cbc002cd2bbc08f9ab33b94361ed665f189d8</a>
+    <td>
+    </tr>
+    <tr>
+      <td style="text-align:left">11 August 2021</td>
+      <td style="text-align:left">Address change request</td>
+      <td style="text-align:left"><a href="https://blockscout.com/xdai/mainnet/tx/0x2b339532335108525de9670b8df63efa5fb0ac886989fd0686f698fbed0d9cf8">https://blockscout.com/xdai/mainnet/tx/0x2b339532335108525de9670b8df63efa5fb0ac886989fd0686f698fbed0d9cf8</a>
     </tr>
     <tr>
       <td style="text-align:left"></td>
