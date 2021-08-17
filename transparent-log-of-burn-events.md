@@ -211,7 +211,7 @@ On the off chance that the Commons Stack Association loses faith in a member of 
     </tr>
     <tr>
       <td style="text-align:left">30 July 2021</td>
-      <td style="text-align:left">Double Mint</td>
+      <td style="text-align:left">Accounting Error</td>
       <td style="text-align:left"><a href="https://blockscout.com/xdai/mainnet/tx/0xb554c581015d3712742294affeb1883a1a0e623f246ecbef75532aad1f65ad7e">https://blockscout.com/xdai/mainnet/tx/0xb554c581015d3712742294affeb1883a1a0e623f246ecbef75532aad1f65ad7e</a>
     <td>
     </tr>
@@ -229,7 +229,7 @@ On the off chance that the Commons Stack Association loses faith in a member of 
     </tr>
     <tr>
       <td style="text-align:left">11 August 2021</td>
-      <td style="text-align:left">Double Mint</td>
+      <td style="text-align:left">Accounting Error</td>
       <td style="text-align:left"><a href="https://blockscout.com/xdai/mainnet/tx/0x15b2e8fe5e5e49350fa8784db65cbc002cd2bbc08f9ab33b94361ed665f189d8">https://blockscout.com/xdai/mainnet/tx/0x15b2e8fe5e5e49350fa8784db65cbc002cd2bbc08f9ab33b94361ed665f189d8</a>
     <td>
     </tr>
