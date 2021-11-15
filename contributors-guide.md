@@ -21,6 +21,6 @@
 Note that we host a Praise Onboarding call in our [Discord](https://discord.com/invite/KXn9Y7jzvz) on [Wednesday's at 12 pm EST](https://calendar.google.com/calendar/u/0/embed?src=c_vjdckfj4bharuovhd4rmo3dtv4@group.calendar.google.com&ctz=Eastern/Time/New/York).
 
 {% hint style="info" %}
-**If you have any questions about your contribution or this process, please contact Dan \([@knobsDAO](https://t.me/knobsDAO)\) via a direct message on Telegram.**
+**If you have any questions about your contribution or this process, you can contact our team on [Telegram](https://t.me/CommonsStack) and [Discord](https://discord.com/invite/KXn9Y7jzvz) channels. They’ll be happy to take you through the process step-by-step. Or drop us an email to: info@commonsstack.org**
 {% endhint %}
 
