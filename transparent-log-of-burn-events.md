@@ -253,7 +253,7 @@ On the off chance that the Commons Stack Association loses faith in a member of 
     </tr>
     <tr>
       <td style="text-align:left">15 November 2021</td>
-      <td style="text-align:left">Token Accounting</td>
+      <td style="text-align:left">Accounting Error</td>
       <td style="text-align:left"><a href="https://blockscout.com/xdai/mainnet/tx/0x5af922b57fac8ab51c661bdcf716962c5def43d8591d2e212053c075725eae2b">https://blockscout.com/xdai/mainnet/tx/0x5af922b57fac8ab51c661bdcf716962c5def43d8591d2e212053c075725eae2b</a>
     </tr>
     <tr>
