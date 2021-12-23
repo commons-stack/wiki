@@ -255,6 +255,12 @@ On the off chance that the Commons Stack Association loses faith in a member of 
       <td style="text-align:left">15 November 2021</td>
       <td style="text-align:left">Accounting Error</td>
       <td style="text-align:left"><a href="https://blockscout.com/xdai/mainnet/tx/0x5af922b57fac8ab51c661bdcf716962c5def43d8591d2e212053c075725eae2b">https://blockscout.com/xdai/mainnet/tx/0x5af922b57fac8ab51c661bdcf716962c5def43d8591d2e212053c075725eae2b</a>
+    <td>
+    </tr>
+    <tr>
+      <td style="text-align:left">23 December 2021</td>
+      <td style="text-align:left">Membership Termination</td>
+      <td style="text-align:left"><a href="https://blockscout.com/xdai/mainnet/tx/0x49df70d0d23cb38432ddf8c4e9d7673f50a6591eb7aeac764d6bbfc17be1a7b7">See link A</a><a href="https://blockscout.com/xdai/mainnet/tx/0x9941cdb326468d653aa4550ea4cc5e100630d96125747d5fe7224ff82cfeb923"> and B</a>
     </tr>
   </tbody>
 </table>
