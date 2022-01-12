@@ -18,7 +18,7 @@
 * We hope one day to integrate [SourceCred](https://sourcecred.io/), as it is a very promising protocol that can serve the same purpose as our PraiseBot, but to keep overhead low, we decided to keep it simply to Praise for now. You can find the source code for our PraiseBot [here](https://github.com/commons-stack/CommonsStackBot).
 * You can find the live sheet of the awarded Praise throughout a month and the historical record of all awarded Praise and related CSTK tokens [in this sheet](https://docs.google.com/spreadsheets/d/1Qxgjg4YxTBNIIwIEm3WGDcmGs_8Klv-UzztQCzYLvNA/edit?usp=sharing). You can also see this record by typing "!sheet" in any telegram room the Praisebot \(@PraiseBot\) is in.
 
-Note that we host a Praise Onboarding call in our [Discord](https://discord.com/invite/KXn9Y7jzvz) on [Wednesday's at 12 pm EST](https://calendar.google.com/calendar/u/0/embed?src=c_vjdckfj4bharuovhd4rmo3dtv4@group.calendar.google.com&ctz=Eastern/Time/New/York).
+Do you have more questions? Join our Trusted Seed Lounge calls in our [Discord](https://discord.com/invite/KXn9Y7jzvz) on [Tuesday's at 12 pm EST](https://calendar.google.com/calendar/u/0/embed?src=c_vjdckfj4bharuovhd4rmo3dtv4@group.calendar.google.com&ctz=Eastern/Time/New/York).
 
 {% hint style="info" %}
 **If you have any questions about your contribution or this process, you can contact our team on [Telegram](https://t.me/CommonsStack) or [Discord](https://discord.com/invite/KXn9Y7jzvz) channels. They’ll be happy to take you through the process step-by-step. Or drop us an email to: info@commonsstack.org**
