@@ -262,6 +262,11 @@ On the off chance that the Commons Stack Association loses faith in a member of 
       <td style="text-align:left">Membership Termination</td>
       <td style="text-align:left"><a href="https://blockscout.com/xdai/mainnet/tx/0x49df70d0d23cb38432ddf8c4e9d7673f50a6591eb7aeac764d6bbfc17be1a7b7">See link A</a><a href="https://blockscout.com/xdai/mainnet/tx/0x9941cdb326468d653aa4550ea4cc5e100630d96125747d5fe7224ff82cfeb923"> and B</a>
     </tr>
+    <tr>
+      <td style="text-align:left">2 March 2022</td>
+      <td style="text-align:left">Address change request</td>
+      <td style="text-align:left"><a href="https://aragon.1hive.org/?#/csdao/0xaa89fb730a83146cbf06661fd436e7445b4d0232/vote/165/">See link A</a><a href="https://aragon.1hive.org/?#/csdao/0xaa89fb730a83146cbf06661fd436e7445b4d0232/vote/166/"> and B</a>
+    </tr>
   </tbody>
 </table>
 
