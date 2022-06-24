@@ -16,8 +16,8 @@
 
 ***
 
-* [Commons Deployments Manual](commons-deployments-manual/README.md)
-  * [Phase 1: Initialization](commons-deployments-manual/phase-1-initialization.md)
-  * [Phase 2: Build](commons-deployments-manual/phase-2-build.md)
-  * [Phase 3: Hatch](commons-deployments-manual/phase-3-hatch.md)
-  * [Phase 4: Commons Upgrade](commons-deployments-manual/phase-4-commons-upgrade.md)
+* [Commons Deployments Manual](commons-deployments/README.md)
+  * [Phase 1: Initialization](commons-deployments/phase-1-initialization.md)
+  * [Phase 2: Build](commons-deployments/phase-2-build.md)
+  * [Phase 3: Hatch](commons-deployments/phase-3-hatch.md)
+  * [Phase 4: Commons Upgrade](commons-deployments/phase-4-commons-upgrade.md)
